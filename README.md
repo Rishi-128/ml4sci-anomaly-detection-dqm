@@ -38,13 +38,14 @@ This project addresses that problem by:
 ---
 
 ## 📂 Repository Structure
+```
 ├── 01_data_generation.ipynb # Synthetic detector data simulation
 ├── 02_autoencoder_training.ipynb # Training autoencoder on normal data
 ├── 03_anomaly_detection.ipynb # Anomaly detection via reconstruction error
 ├── 04_data_drift_simulation.ipynb # Performance degradation under data drift
 ├── 05_continuous_learning.ipynb # Online adaptation using continuous learning
 └── README.md
-
+```
 
 ---
 
